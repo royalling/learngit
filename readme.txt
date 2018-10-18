@@ -1,5 +1,7 @@
-Git is a distributed version control system.
+it is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Greating a new branch is quick & simple.
+Greating a new branch is quick & simple and he.
+wq
+
